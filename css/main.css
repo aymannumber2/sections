@@ -19,7 +19,7 @@ html {
   font-weight: bold;
   margin-top: .3em;
   margin-bottom: 2.5em;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 a:hover {
@@ -39,7 +39,7 @@ img {
   margin-top: 2em;
   margin-right: .5em;
   display: block;
-  padding-top: 0.2em;
+  padding-top: .5em;
 }
 
 p {
