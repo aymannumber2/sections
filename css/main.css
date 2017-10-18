@@ -10,15 +10,16 @@ html {
 }
 
 .btn {
-  padding: .4em .75em .5em;
+  padding: .8em;
   display: inline-block;
-  border: 2px solid #333;
+  border: 3px solid #333;
   border-radius: .5em;
   text-decoration: none;
   color: #333;
   font-weight: bold;
   margin-top: .3em;
   margin-bottom: 2.5em;
+  font-size: 1em;
 }
 
 a:hover {
@@ -35,9 +36,10 @@ section {
 
 img {
   width: 100%;
-  margin-top: 2.5em;
+  margin-top: 2em;
   margin-right: .5em;
   display: block;
+  padding-top: 0.2em;
 }
 
 p {
