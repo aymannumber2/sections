@@ -10,9 +10,9 @@ html {
 }
 
 .btn {
-  padding: .5em;
+  padding: .6em;
   display: inline-block;
-  border: 3px solid #333;
+  border: 2.5px solid #333;
   border-radius: .5em;
   text-decoration: none;
   color: #333;
