@@ -56,9 +56,12 @@ div {
   max-width: 25em;
   padding: 1em;
   text-align: left;
+  vertical-align: middle;
 }
 
 h2 {
+  font-family: Lato, bold;
+  margin-top: 0.1em;
   margin-bottom: 0;
 }
 
